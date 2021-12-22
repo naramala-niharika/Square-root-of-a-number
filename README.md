@@ -15,7 +15,8 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-```
+~~~
+
 /*
 #Program to to find the square root for the given number(newton's method) using function.
 #Developed by: N.Niharika
@@ -27,9 +28,10 @@ def fun():
         x=0.5*(x+b/x)
     print("Square root of the number:",x)
 fun()
+~~~
 
 ## Output:
-![gcd of two number](gcd.png)
+![gcd of two number](https://github.com/naramala-niharika/Square-root-of-a-number/blob/main/Screenshot%20(4).png?raw=true)
 
 
 ## Result:
